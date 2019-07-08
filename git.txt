@@ -1,0 +1,14 @@
+Window的git:
+ 
+Git下来的文件夹右键git bush here 
+Git add 目标文件夹/.
+Git commit –m “说明”
+Git push   //第一次会需要登录
+Git pull //拉取数据
+
+Git stash
+Git pull origin master
+Git stash pop
+Git pull
+Git add ..
+….
